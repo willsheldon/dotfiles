@@ -1,0 +1,8 @@
+
+set passkeys+='^https?://mail\.google\.com/mail/':c/jknpouexsra#[]?
+set passkeys+='^https?://www\.google\.com/reader/':<Space><Esc>-=/?12aefjklmprsvAFNPOSX
+set passkeys+='^http?://ws\.nfshost\.com/fever/':zarsnfp<space>kj<CR>/<Left><Right>ANB
+set passkeys+='^http://digg\.com/reader/':jknpor12JKOXaAmedsv?<CR><Space>
+set passkeys+='^https?://(cloud.)?feedly.com/':<esc>?ghalJKarjknpovAmxsbcV
+" disable for c9"
+autocmd LocationChange ide.c9.io :normal! <C-z>
